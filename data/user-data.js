@@ -6,7 +6,7 @@ export const userData = {
   linkedIn: "https://www.linkedin.com/in/egideons/",
   twitter: "https://twitter.com/egideonchuks",
   stackOverflow: "https://stackoverflow.com/users/17398638",
-  // leetcode: "https://leetcode.com/said3812/",
+  // leetcode: "https://leetcode.com/",
   resume:
     "https://drive.google.com/file/d/1jVRV0Y8fenP6XoslJFazRsJYiEbEJEUm/view?usp=sharing",
   skills: [
@@ -25,5 +25,5 @@ export const userData = {
     "Gradle",
     "JSON",
   ],
-  timezone: "GMT+1",
+  timezone: "+1",
 };
